@@ -7,4 +7,5 @@ public class CheckNumber {
         return (number1 + number2 + number3) / 3;
 
     }
+
 }
