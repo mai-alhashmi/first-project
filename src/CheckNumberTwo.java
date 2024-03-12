@@ -5,6 +5,10 @@ public class CheckNumberTwo {
 
     }
 
+    /**
+     * check number is even
+     */
+
     public static void isEven() {
         Scanner scanner = new Scanner(System.in);
         System.out.printf("enter number");
