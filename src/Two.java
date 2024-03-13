@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Two {
 
-    public class Average {
+
         public static void main(String[] args) {
             readNumber();
 
@@ -27,4 +27,4 @@ public class Two {
 
         }
     }
-}
+
