@@ -7,6 +7,7 @@ public class CheckNumberTwo {
 
     /**
      * check number is even
+     *
      */
 
     public static void isEven() {
